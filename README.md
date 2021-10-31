@@ -2,8 +2,8 @@
 
 <div align="center">
  <a href="https://github.com/vinisann">
- <img height="170em" src="https://github-readme-stats.vercel.app/api?username=vinisann&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisann&layout=compact&langs_count=7&theme=dark"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinisann&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisann&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
 <div style="display: inline_block"><br>
@@ -14,7 +14,9 @@
 </div>
 
  
-![enter image description here](https://img.ibxk.com.br/2019/07/05/homem-aranha-05142830781241.jpg?w=328)
+ <img align="right" alt="Vini-pic" height="150" style="border-radius:50px;" src="https://img.ibxk.com.br/2019/07/05/homem-aranha-05142830781241.jpg?w=328">
+</div>
+
  
 ##### 🌍 " Podemos não ganhar todas as batalhas, mas devemos dar sempre o nosso máximo. " 
 
