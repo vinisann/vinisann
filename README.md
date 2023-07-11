@@ -17,9 +17,6 @@
  <img align="right" alt="Vini-pic" height="150" style="border-radius:50px;" src="https://img.ibxk.com.br/2019/07/05/homem-aranha-05142830781241.jpg?w=328">
 </div>
 
- 
-##### 🌍 " Cientista da Computação em formação | Apaixonado por análise de dados e visualização | Analista de dados " 
-
 Nome: Vinícius Nunes
 
 Habilidades: Python, Análise de dados, Visualização de dados
