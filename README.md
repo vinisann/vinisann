@@ -1,4 +1,4 @@
-# Heey 👾
+# Olá! 👾
 
 <div align="center">
  <a href="github.com/vinisann">
@@ -10,7 +10,7 @@
 <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
 <img align="center" alt="Vini-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="center" alt="Vini-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-<img align="center" alt="Vini-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<img align="center" alt="Vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
 </div>
 
  
@@ -18,12 +18,18 @@
 </div>
 
  
-##### 🌍 " Entusiasta de Data Science e Python | Apaixonado por análise de dados e visualização | Aprendendo e compartilhando conhecimento " 
+##### 🌍 " Cientista da Computação em formação | Apaixonado por análise de dados e visualização | Analista de dados " 
+
+Nome: Vinícius Nunes
+
+Habilidades: Python, Análise de dados, Visualização de dados
+
+Experiência: Analista de dados com foco em insights e tomada de decisão estratégica
 
 - 📚 Computer Science
 - 📍 Brazil, São Paulo
 
-Follow me 👇🏻
+Me siga 👇🏻
 
  ##
  
