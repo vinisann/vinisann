@@ -25,12 +25,6 @@ Currently working on:
 
 ---
 
-## 📚 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinisann&layout=compact&theme=tokyonight)
-
----
-
 ## 🤖 AI, Data & Automation
 
 <div align="left">
