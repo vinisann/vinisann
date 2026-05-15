@@ -10,7 +10,7 @@ Currently working on:
 - Data analytics
 - Backend applications
 - ERP and API integrations
-- Local LLMs with Ollama
+- Local LLMs with Ollama/LM Studio
 - Python applications and intelligent workflows
 
 ---
