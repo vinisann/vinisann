@@ -42,13 +42,9 @@ Currently working on:
 
 ## 📊 GitHub Stats
 
-<div align="left">
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinisann&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisann&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisann16&layout=compact&theme=tokyonight&hide_border=true"/>
 
 ---
 
