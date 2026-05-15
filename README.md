@@ -19,7 +19,7 @@ Currently working on:
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=python,js,nextjs,html,css,mysql,sqlite,docker,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,js,nextjs,mysql,sqlite,docker,git,github,vscode" />
 
 </div>
 
@@ -27,9 +27,7 @@ Currently working on:
 
 ## 📚 Top Languages
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisann&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinisann&layout=compact&theme=tokyonight)
 
 ---
 
