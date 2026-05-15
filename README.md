@@ -25,24 +25,25 @@ Currently working on:
 
 ---
 
+## 📚 Top Languages
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinysantoos16&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 ## 🤖 AI, Data & Automation
 
 <div align="left">
 
+<img src="https://img.shields.io/badge/LM_Studio-6C47FF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white" />
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 
 </div>
-
----
-
-## 📊 GitHub Stats
-
-![Vinícius GitHub stats](https://github-readme-stats.vercel.app/api?username=vinisann&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -54,5 +55,3 @@ Currently working on:
 
 🌍 I'm based in São Paulo, Brazil  
 ✉️ You can contact me at nunes.vinicius2002@outlook.com
-🧠 I'm currently learning Machine Learning, AI Agents and System Architecture  
-🚀 Passionate about automation, analytics and technology 
